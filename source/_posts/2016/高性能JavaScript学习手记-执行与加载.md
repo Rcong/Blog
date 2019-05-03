@@ -2,9 +2,14 @@
 title: 高性能JavaScript学习手记-执行与加载
 date: 2016-12-02 15:48:41
 tags:
+    - js
+clearReading: true
+metaAlignment: center
 ---
 
 浏览器在处理HTML页面渲染和JavaScript脚本执行的时候是单一进程的,所以在当浏览器在渲染HTML遇到了`<script>`标签会先去执行标签内的代码(如果是使用src属性加载的外链文件,则先下载再执行),在这个过程中,页面渲染和交互都会被阻塞。
+
+<!-- excerpt -->
 
 ...虽然会有阻塞,但还是有几招可以减少JavaScript对性能的影响的。
 

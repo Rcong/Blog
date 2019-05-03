@@ -1,12 +1,25 @@
 ---
 title: 浅析DNS协议
 date: 2019-02-17 20:48:02
-tags: DNS
+tags:
+    - DNS
+clearReading: true
+thumbnailImage: https://static001.geekbang.org/resource/image/ff/f2/ff7e8f824ebd1f7e16ef5d70cd79bdf2.jpg
+thumbnailImagePosition: bottom
+autoThumbnailImage: true
+metaAlignment: center
+coverMeta: in
+coverSize: partial
+comments: false
+meta: false
+actions: false
 ---
 
 在网络中，网站的IP地址很难让人去记住，一般都是使用域名去访问，因此就有了DNS服务器，根据IP查询域名的地址簿。
 
 每台计算器上都有相应的DNS客户端，也称作DNS解析器。通过DNS查询IP地址的操作称为域名解析，DNS解析器实际上是一段代码，包含在了操作系统的Socket库中，Socket是C语言实现的调用网络功能的库。
+
+<!-- excerpt -->
 
 ## DNS解析流程
 
