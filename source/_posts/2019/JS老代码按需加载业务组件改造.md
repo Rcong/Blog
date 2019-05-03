@@ -6,6 +6,7 @@ tags:
     - webpack
 clearReading: true
 metaAlignment: center
+categories: 技术
 ---
 
 ## 背景

@@ -5,6 +5,7 @@ tags:
     - TCP
 clearReading: true
 metaAlignment: center
+categories: 技术
 ---
 
 说起计算机网络知识中的「三次握手」和「四次挥手」，比较基础的印象就是SYN的请求与ACK、SYN的回传，FIN的请求断开等概念，描述起来只是浮于表面，所以补了一下这方面的知识，形成这篇手记。

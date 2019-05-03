@@ -3,6 +3,7 @@ title: 浅析DNS协议
 date: 2019-02-17 20:48:02
 tags:
     - DNS
+categories: 技术
 clearReading: true
 thumbnailImage: https://static001.geekbang.org/resource/image/ff/f2/ff7e8f824ebd1f7e16ef5d70cd79bdf2.jpg
 thumbnailImagePosition: bottom
