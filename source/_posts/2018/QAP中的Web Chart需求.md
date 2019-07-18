@@ -17,6 +17,8 @@ QAP的Chart库是基于weex + rax, 包含了线图、柱状图、饼图、雷达
 
 但是对于各插件商自己的业务需求，QAP的Chart库很难去满足不同的展现逻辑和需求。
 
+<!-- excerpt -->
+
 - 使用H5达到效果的Chart
 
 ![H5 Chart](https://cdn.nlark.com/yuque/0/2019/jpeg/103782/1563425928516-2ecec587-7828-4570-a9b1-ad34ba93ed81.jpeg?x-oss-process=image/resize,w_450)
