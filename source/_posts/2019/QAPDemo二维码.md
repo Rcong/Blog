@@ -8,6 +8,8 @@ metaAlignment: center
 categories: 技术
 ---
 
+下面组件的Demo二维码请用千牛扫描。
+
 <!-- excerpt -->
 
 ## WebDemo的二维码
