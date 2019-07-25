@@ -12,6 +12,8 @@ QAP —— Qianniu Application Platform，是阿里千牛官方推出的开发�
 
 <!-- excerpt -->
 
+QAP —— Qianniu Application Platform，是阿里千牛官方推出的开发者套件。底层使用了weex渲染，上层有SDK接口、rax库、基于Rax的ui组件库Nuke以及命令行工具QAP-CLI。
+
 ## 背景
 
 2017年以前，千牛官方使用插件的方案还是基于webview展现H5页面的形式，这样的方案下有几个问题:
