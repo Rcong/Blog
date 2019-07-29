@@ -19,6 +19,8 @@ QAP的Chart库是基于weex + rax, 包含了线图、柱状图、饼图、雷达
 
 <!-- excerpt -->
 
+## 背景
+
 QAP的Chart库是基于weex + rax, 包含了线图、柱状图、饼图、雷达图等，由客户端插件实现，性能好，开发友好，直接引用就行。
 
 - QAP原生的Chart
