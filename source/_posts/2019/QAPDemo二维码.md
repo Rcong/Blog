@@ -12,6 +12,8 @@ categories: 技术
 
 <!-- excerpt -->
 
+下面组件的Demo二维码请用千牛扫描。
+
 ## WebDemo的二维码
 ![WebDemo](https://cdn.nlark.com/yuque/0/2019/png/103782/1563543565161-a7458630-a00a-41ad-ab4c-48b576c3f44d.png)
 
