@@ -13,7 +13,7 @@ QAP的Chart库是基于weex + rax, 包含了线图、柱状图、饼图、雷达
 
 - QAP原生的Chart
 
-![Qap Chart](https://cdn.nlark.com/yuque/0/2019/png/103782/1563428248981-ebf27849-d181-47b1-a1cf-71337504f383.png?x-oss-process=image/resize,w_579)
+![Qap Chart](https:////wx4.sinaimg.cn/mw690/8e70eab6ly1g5q9yq5aexj20k40un0uj.jpg)
 
 但是对于各插件商自己的业务需求，QAP的Chart库很难去满足不同的展现逻辑和需求。
 
@@ -25,13 +25,13 @@ QAP的Chart库是基于weex + rax, 包含了线图、柱状图、饼图、雷达
 
 - QAP原生的Chart
 
-![Qap Chart](https://cdn.nlark.com/yuque/0/2019/png/103782/1563428248981-ebf27849-d181-47b1-a1cf-71337504f383.png?x-oss-process=image/resize,w_579)
+![Qap Chart](https:////wx4.sinaimg.cn/mw690/8e70eab6ly1g5q9yq5aexj20k40un0uj.jpg)
 
 但是对于各插件商自己的业务需求，QAP的Chart库很难去满足不同的展现逻辑和需求。
 
 - 使用H5达到效果的Chart
 
-![H5 Chart](https://cdn.nlark.com/yuque/0/2019/jpeg/103782/1563425928516-2ecec587-7828-4570-a9b1-ad34ba93ed81.jpeg?x-oss-process=image/resize,w_450)
+![H5 Chart](https:////wx3.sinaimg.cn/mw690/8e70eab6ly1g5q9yq9iy3j20iz0pc119.jpg)
 
 ## 方案
 
@@ -126,6 +126,6 @@ render(<WebDemo/>);
 
 ## 整体的逻辑
 
-![整体的逻辑](https://cdn.nlark.com/yuque/0/2019/jpeg/103782/1563465445206-12edc4de-0029-4787-a217-9e585d9ba462.jpeg?x-oss-process=image/resize,w_746)
+![整体的逻辑](https:////wx1.sinaimg.cn/mw690/8e70eab6ly1g5q9yqc3f0j210i0u0e11.jpg)
 
 总的来说,通过QAP提供的事件机制起到Web页与QAP页面的通信。Web页面的展现逻辑相对于Weex渲染的页面和组件可以做到更丰富。
