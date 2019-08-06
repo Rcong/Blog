@@ -15,13 +15,13 @@ categories: 技术
 下面组件的Demo二维码请用千牛扫描。
 
 ## WebDemo的二维码
-![WebDemo](https://cdn.nlark.com/yuque/0/2019/png/103782/1563543565161-a7458630-a00a-41ad-ab4c-48b576c3f44d.png)
+![WebDemo](https://wx1.sinaimg.cn/mw1024/8e70eab6ly1g5qac6chdwj2074074746.jpg)
 
 ## AlertDialogDemo的二维码
-![AlertDialogDemo](https://cdn.nlark.com/yuque/0/2019/png/103782/1563543587536-79ee11d1-74b5-4a7c-b764-1285ce83e606.png)
+![AlertDialogDemo](https://wx1.sinaimg.cn/mw1024/8e70eab6ly1g5qac69pqxj20740743ye.jpg)
 
 ## PickerCardDemo的二维码
-![PickerCardDemo](https://cdn.nlark.com/yuque/0/2019/png/103782/1563543612089-d0bad5d3-afd7-4bfb-bc41-1e70f7e5c1c4.png)
+![PickerCardDemo](https://wx3.sinaimg.cn/mw1024/8e70eab6ly1g5qac6ciqxj2074074746.jpg)
 
 ## RateStarDemo的二维码
-![RateStarDemo](https://cdn.nlark.com/yuque/0/2019/png/103782/1563543651953-506d4038-f653-4aef-a210-c873663328b4.png)
+![RateStarDemo](https:////wx1.sinaimg.cn/mw1024/8e70eab6ly1g5qac6cg2tj20740743ye.jpg)
