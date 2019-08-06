@@ -24,4 +24,4 @@ categories: 技术
 ![PickerCardDemo](https://wx3.sinaimg.cn/mw1024/8e70eab6ly1g5qac6ciqxj2074074746.jpg)
 
 ## RateStarDemo的二维码
-![RateStarDemo](https:////wx1.sinaimg.cn/mw1024/8e70eab6ly1g5qac6cg2tj20740743ye.jpg)
+![RateStarDemo](https://wx1.sinaimg.cn/mw1024/8e70eab6ly1g5qac6cg2tj20740743ye.jpg)

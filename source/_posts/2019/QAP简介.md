@@ -41,7 +41,7 @@ QAP —— Qianniu Application Platform，是阿里千牛官方推出的开发�
 
 对于这个问题，千牛官方给出的解决方案是抽离出公共的运行环境 framework 代码（ Rax、Nuke 组件以及 SDK ）放入 Main.js 里面， Main.js 是Weex的运行环境，这样 Bundle 包里面就只剩下了 ISV 的业务代码了，这样使得包的大小能够很好地控制。所以引出了下图这样的体系：
 
-![QAP体系](https:////wx1.sinaimg.cn/mw1024/8e70eab6ly1g5qa4k5fwlj20tw0qa1kx.jpg)
+![QAP体系](https://wx1.sinaimg.cn/mw1024/8e70eab6ly1g5qa4k5fwlj20tw0qa1kx.jpg)
 
 - 顶层 JS Bundle 是 ISV 的业务代码
 - Rax、Nuke 组件以及 SDK 则是被抽离出内置到了 weex 的运行环境中去了，这部分负责 JS 与 natvie 之间的交互。数据绑定、事件逻辑处理等。
