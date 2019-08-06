@@ -41,7 +41,7 @@ QAP —— Qianniu Application Platform，是阿里千牛官方推出的开发�
 
 对于这个问题，千牛官方给出的解决方案是抽离出公共的运行环境 framework 代码（ Rax、Nuke 组件以及 SDK ）放入 Main.js 里面， Main.js 是Weex的运行环境，这样 Bundle 包里面就只剩下了 ISV 的业务代码了，这样使得包的大小能够很好地控制。所以引出了下图这样的体系：
 
-![QAP体系](https://cdn.nlark.com/yuque/0/2019/png/103782/1563981630054-7e7cccc3-87a0-4715-8a2e-0d8b65171bf3.png?x-oss-process=image/resize,w_555)
+![QAP体系](https:////wx1.sinaimg.cn/mw1024/8e70eab6ly1g5qa4k5fwlj20tw0qa1kx.jpg)
 
 - 顶层 JS Bundle 是 ISV 的业务代码
 - Rax、Nuke 组件以及 SDK 则是被抽离出内置到了 weex 的运行环境中去了，这部分负责 JS 与 natvie 之间的交互。数据绑定、事件逻辑处理等。
@@ -53,7 +53,7 @@ QAP —— Qianniu Application Platform，是阿里千牛官方推出的开发�
 
 这是根据一些淘系 weex 的 PPT 资料整理出来的图:
 
-![流程](https://cdn.nlark.com/yuque/0/2019/png/103782/1564047395539-aadd38ec-79c6-4ee4-a91d-71102d5bd29b.png?x-oss-process=image/resize,w_646)
+![流程](https://wx1.sinaimg.cn/mw1024/8e70eab6ly1g5qa4jz2dwj20wo0u0q4t.jpg)
 
 1. 在这里开发者使用 weex 的 DSL —— 即 Nuke（基于 Rax 的组件库）和 Rax 来编写整个项目工程， Rax 的使用方式和 RN 类似。
 2. 相关的开发体验都会基于[ QAP-CLI ](https://www.npmjs.com/package/qap-cli)这个脚手架，功能涉及到了初始化项目、调试、工程打包等，当开发者完成了项目，使用脚手架的打包命令```qap package```，即可以将 Rax 语法的代码 transformer 得到了纯 JS Bundle 代码。
